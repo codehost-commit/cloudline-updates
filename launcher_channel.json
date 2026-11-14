@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "version": "2.7.0",
+  "release_tag": "launcher-v2.7.0-BR-1.0.0",
+  "source": {
+    "url": "https://github.com/codehost-commit/cloudline-updates/releases/download/launcher-v2.7.0-BR-1.0.0/Cloudline-Launcher-2.7.0-source.zip",
+    "sha256": "e0885898d167b1292a5338a6ff41e71e641e2ecf68466cc2603e9c7f1a662856",
+    "archive_bytes": 113778252,
+    "install_bytes": 115111467
+  }
+}
