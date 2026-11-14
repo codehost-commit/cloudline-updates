@@ -1525,7 +1525,7 @@
   ],
   "update_channel": {
     "repository": "codehost-commit/cloudline-updates",
-    "release_tag": "launcher-v2.8.0-BR-1.0.0",
+    "release_tag": "launcher-v2.8.1-BR-1.0.0",
     "published_by": "launcher/tools/push_update.py"
   }
 }
