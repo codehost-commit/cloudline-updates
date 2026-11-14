@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "version": "2.7.1",
-  "release_tag": "launcher-v2.7.1-BR-1.0.0",
+  "version": "2.8.0",
+  "release_tag": "launcher-v2.8.0-BR-1.0.0",
   "source": {
-    "url": "https://github.com/codehost-commit/cloudline-updates/releases/download/launcher-v2.7.1-BR-1.0.0/Cloudline-Launcher-2.7.1-source.zip",
-    "sha256": "0ea4ba5638652384956f9f1458c0ed84ad7aa8f2a89391b86dd2c77cea155ecf",
-    "archive_bytes": 113779636,
-    "install_bytes": 115114053
+    "url": "https://github.com/codehost-commit/cloudline-updates/releases/download/launcher-v2.8.0-BR-1.0.0/Cloudline-Launcher-2.8.0-source.zip",
+    "sha256": "c560fca596158fe084a23793330ee2f4669b26cf35e9f0be76c0d013a32b1a34",
+    "archive_bytes": 113782334,
+    "install_bytes": 115124371
   }
 }
